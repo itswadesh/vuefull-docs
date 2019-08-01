@@ -5,7 +5,7 @@ date: 2019-06-18 06:40:12
 
 # Installation Instructions
 ::: warning COMPATIBILITY NOTE
-CRUD v3 requires Node.js 11.x
+Vue Fullstack Generator requires Node.js 11.x
 :::
 
 ## Softwares Required
@@ -31,7 +31,7 @@ We also need node-gyp installed. Please follow the steps to install it
 Download and unzip the file from codecanyon and navigate inside the directory
 
 ``` bash
-cd generator-codenx
+cd generator-vuefull
 ```
 ### Start database
 Start mongodb in a separate shell

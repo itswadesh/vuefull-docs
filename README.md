@@ -15,7 +15,7 @@ footer: Codecanyon Licensed | Copyright © 2019-present Swadesh Behera
 
 ## About CRUD Automation
 
-CodeNx CRUD is a Javascript CRUD boiler plate, perfect for rapid development. It is built over the cutting edge technology and purely modular code.
+Vue Fullstack Generator is a Javascript CRUD boiler plate, perfect for rapid development. It is built over the cutting edge technology and purely modular code.
 
 This is based on ReST API and disconnected architecture. Hence you are free to use any front-end or backend. 
 
@@ -54,14 +54,7 @@ This is highly scalable and can handle many connections at a time.
 Being an **asynchronous event driven architecture** its speed goes upto 5 fold as compared to existing php based solutions.
 
 ## Past
-CodeNx CRUD V3 is an evolution of CodeNx CRUD first released 36 Earthian months back with a code name “mCRUD”
-
-- CRUD V3 – “CRUD” V6 (VueJS) 
-- CRUD V2 – Redeveloped core engine from scratch during over 8 months 
-- CRUD V1 – “mCRUD” (AngularJS 1.6) 
-
-## Upcoming Updates
-- OAUTH Login: google, twitter
+Vue Fullstack Generator is an evolution of CodeNx CRUD first released 36 Earthian months back with a code name “mCRUD”
 
 ## Links
 - [Installation](/installation-instructions.html)

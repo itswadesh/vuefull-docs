@@ -1,5 +1,5 @@
 ---
-title: Settings (CODENX CRUD)
+title: Settings (Vue Fullstack Generator)
 date: 2019-06-18 06:40:12
 ---
 ## Client Settings
@@ -96,7 +96,7 @@ export const staticPath = './../crud-images';
 export const uploadDir = staticPath + '/images/';
 export const shopName = 'Codenx.com';
 export const shopEmail = 'info@codenx.com';
-export const emailFrom = 'Customer Service <info@codenx.com>';
+export const emailFrom = 'Customer Service <support@codenx.com>';
 export const userRoles: string[] = ['user', 'shipper', 'vendor', 'manager', 'admin']; // This should be in ascending order of authority. e.g. In this case guest will not have access to any other role, where as admin will have the role of guest+user+vendor+manager+admin // Used at auth.service.ts
 export const pageSize: number = 40
 ```
@@ -106,7 +106,6 @@ export const pageSize: number = 40
 ``` js
 SERVERPORT=9000
 DOMAIN=http://localhost:9000
-STORE_FRONT_URL=https://crud.codenx.com
 
 MONGODB_URI=mongodb://username:password@localhost:27017/crud?authSource=admin
 SESSION_SECRET=crud-secret
