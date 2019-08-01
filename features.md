@@ -1,0 +1,21 @@
+- Generate Create, Update, Delete, Read, Search, Sort with a `1 command`.
+- All operations(Create, Update, Delete, Read, Search, Sort, Pagination) are through API hence consumes less client memory
+- Integrated authentication module `Login, Signup, Change Password, Forgot Password, Reset Password, Edit Profile`
+- User Roles module with level of separation
+- Best user experience with Single Page Application
+- Modular coding structure
+- Auto deploy to production server
+- Better and cleaner JavaScript code
+- Simplified installation and configuration
+- Reliable: Load fast and provide offline experience
+- Fast: Respond quickly to user actions
+- Engaging: Feel like a native app on mobile devices
+- Industry best practices
+- Accessibility support out of the box
+- All configurations at 1 place
+- Highly customizable 
+- Separate API and Client, hence highly flexible
+- Created using the latest technology stack `MongoDB ExpressJS VueJS NodeJS (MEVN)`
+- Auto generate minified files for deployment to production server
+- Modular Emails with integrated templating feature
+- Multilingual support

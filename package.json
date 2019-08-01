@@ -1,0 +1,24 @@
+{
+  "name": "generator-codenx-fullstack-documentation",
+  "version": "6.0.0",
+  "description": "Documentation for CRUD",
+  "author": "Swadesh Behera <admin@codenx.com>",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.10.1"
+  },
+  "engines": {
+    "node": ">=8.x",
+    "npm": ">=5.x"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
