@@ -67,9 +67,6 @@ date: 2019-06-18 06:40:12
 |   |       index.vue
 |   |       _id.vue
 |   |       
-|   +---docs
-|   |       features.vue
-|   |       
 |   +---movies
 |   |       config.js
 |   |       index.vue
@@ -78,7 +75,6 @@ date: 2019-06-18 06:40:12
 |   +---oauth
 |   |       success.vue
 |   |       
-|   +---students
 |   +---tasks
 |   |       config.js
 |   |       index.vue
@@ -131,7 +127,6 @@ date: 2019-06-18 06:40:12
 |   |   routes.json
 |   |   routes.ts
 |   |   seed.ts
-|   |   socketio.ts
 |   |   tsconfig.json
 |   |   
 |   +---api
@@ -140,10 +135,8 @@ date: 2019-06-18 06:40:12
 |   |   +---book
 |   |   |       config.ts
 |   |   |       controller.ts
-|   |   |       events.ts
 |   |   |       index.ts
 |   |   |       model.ts
-|   |   |       socket.ts
 |   |   |       
 |   |   +---contact
 |   |   |       config.ts
@@ -168,9 +161,6 @@ date: 2019-06-18 06:40:12
 |   |   |       index.ts
 |   |   |       model.ts
 |   |   |       
-|   |   +---sendmail
-|   |   |       index.ts
-|   |   |       
 |   |   +---task
 |   |   |       config.ts
 |   |   |       controller.ts
@@ -179,30 +169,17 @@ date: 2019-06-18 06:40:12
 |   |   |       
 |   |   \---user
 |   |           index.ts
-|   |           socket.ts
 |   |           user.controller.ts
-|   |           user.events.ts
 |   |           user.model.ts
 |   |           
 |   +---auth
 |   |   |   auth.service.ts
 |   |   |   index.ts
 |   |   |   
-|   |   +---facebook
-|   |   |       index.ts
-|   |   |       passport.ts
-|   |   |       
-|   |   +---google
-|   |   |       index.ts
-|   |   |       passport.ts
-|   |   |       
 |   |   +---local
 |   |   |       index.ts
 |   |   |       passport.ts
 |   |   |       
-|   |   \---twitter
-|   |           index.ts
-|   |           passport.ts
 |   |           
 |   +---components
 |   |   \---errors

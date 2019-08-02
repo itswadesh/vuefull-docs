@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://s3.envato.com/files/236941986/banner.png
+heroImage: https://www.misiki.in/vuefull-banner.jpg
 actionText: Get Started →
 actionLink: /installation-instructions.html
 features:

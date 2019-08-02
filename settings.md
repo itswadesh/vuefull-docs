@@ -1,5 +1,5 @@
 ---
-title: Settings (Vue Fullstack Generator)
+title: Settings (Vueful)
 date: 2019-06-18 06:40:12
 ---
 ## Client Settings
@@ -9,7 +9,7 @@ Path: <em>config.js</em>
 ### General Variables
 
 ``` js
-export const API_URL = 'http://localhost:9000' // The port where API runs
+export const API_URL = 'http://localhost:9090' // The port where API runs
 export const websiteName = 'CodeNx.com'
 export const demo = false // If enabled will not allow user transactions
 export const language = 'en' // Changing this will change the default language across the application
@@ -95,22 +95,20 @@ export const seedDatabase = false; // Seeds database with some demo data when th
 export const staticPath = './../vuefull-images';
 export const uploadDir = staticPath + '/images/';
 export const shopName = 'Codenx.com';
-export const shopEmail = 'info@codenx.com';
+export const shopEmail = 'admin@codenx.com';
 export const emailFrom = 'Customer Service <support@codenx.com>';
-export const userRoles: string[] = ['user', 'shipper', 'vendor', 'manager', 'admin']; // This should be in ascending order of authority. e.g. In this case guest will not have access to any other role, where as admin will have the role of guest+user+vendor+manager+admin // Used at auth.service.ts
+export const userRoles: string[] = ['user', 'vendor', 'manager', 'admin']; // This should be in ascending order of authority. e.g. In this case guest will not have access to any other role, where as admin will have the role of user+vendor+manager+admin // Used at auth.service.ts
 export const pageSize: number = 40
 ```
 
 ## Environment Settings (Server Module)
 
 ``` js
-SERVERPORT=9000
-DOMAIN=http://localhost:9000
-
-MONGODB_URI=mongodb://username:password@localhost:27017/vuefull?authSource=admin
-SESSION_SECRET=vuefull-secret
-
-SENDGRID_API_KEY=YOUR_SENDGRID_API_KEY
+SERVERPORT=`9000`
+STORE_FRONT_URL=`https://vuefull.codenx.com`
+MONGODB_URI=`mongodb://username:password@localhost:27017/vuefull?authSource=admin`
+SESSION_SECRET=`vuefull-secret`
+SENDGRID_API_KEY=`YOUR_SENDGRID_API_KEY`
 
 ``` 
 

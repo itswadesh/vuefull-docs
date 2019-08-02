@@ -5,7 +5,7 @@ date: 2019-06-18 06:40:12
 
 # Installation Instructions
 ::: warning COMPATIBILITY NOTE
-Vue Fullstack Generator requires Node.js 11.x
+Vue Fullstack Generator requires Node.js >= 10.x
 :::
 
 ## Softwares Required
@@ -41,14 +41,14 @@ Run the follwoing commands from an elevated termnial/command prompt. In Windows 
   ```  
 
 ### Run the following 2 commands
-  This will install the required node dependencies and start the Server at [http://localhost:9000](http://localhost:9000) (API), [http://localhost:3000](http://localhost:3000) (Vuefull Admin Panel) 
+  This will install the required node dependencies and start the Server at [http://localhost:9090](http://localhost:9090) (API), [http://localhost:3030](http://localhost:3030) (Vuefull Admin Panel) 
   ``` bash
 yarn
 yarn dev
   ```  
 **That's it !!!**
 
-Now open [http://localhost:3000](http://localhost:3000) (Admin Panel)
+Now open [http://localhost:3030](http://localhost:3030) (Admin Panel)
 
 
 ## Building files for production server

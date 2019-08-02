@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Vuefull',
+    title: 'VueJS Fullstack Automation',
     description: 'Install and start Vuefull with these simple steps',
     head: [
         ['link', { rel: 'icon', href: '/img/logo.png' }],
