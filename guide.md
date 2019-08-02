@@ -1,13 +1,14 @@
 ---
-title: Vuefull Usage Instructions (Guide)
+title: Vuefull How to (Guide)
 date: 2019-06-18 06:40:12
 ---
 
+# How to
 ::: warning Requirement
 After completing [Installation](/installation-instructions.html) of vuefull-generator, the following can be run
 :::
 
-### Generate new API + UI
+## Generate new API + UI
 Run the command **`yo vuefull book`** which will auto generate the following files. Where book is the model name. It will generate the 
 - Database model named book
 - API end point /api/books with GET,POST,PUT,DELETE,EXPORT routes
@@ -27,7 +28,7 @@ vuefull-client/pages/books/config.js
 vuefull-client/config/menu.json
 ```
 
-### Config inside server api endpoint
+## API endpoint config
 
 ::: warning path: <em>vuefull-api/server/api/book/config.ts</em>
  It defines the data types of each field. 
@@ -50,7 +51,7 @@ export const fields = {
 
 Reference: <a href="https://docs.mongodb.com/manual/reference/bson-types/">https://docs.mongodb.com/manual/reference/bson-types/</a>
 
-### Config inside a route
+## UI route config
 
 ::: warning path: <em>vuefull-client/pages/books/config.js</em>
  Contains client settings in key value pair
@@ -80,7 +81,7 @@ Reference: <a href="https://docs.mongodb.com/manual/reference/bson-types/">https
         - emailmask `Masks the field and displays only last 6 characters`
         - phonemask `Masks the field and displays only last 6 characters`
 
-### More settings
+## More settings
 The component named `List` accepts the following props
 ``` js
 f: Array // fields
