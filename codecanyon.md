@@ -7,6 +7,10 @@ Vue Fullstack Automation - Database CRUD Generator using VueJS, NodeJS, MongoDB
 Database CRUD (Create, Update, Delete, Read, Search, Sort, Pagination, Export) operation using VueJS + NodeJS + MongoDB (Material Designed)
 ------------
 
+<h2>Full refund::: if it does not work as per demo</h2>
+<h2>Free::: Development + Production setup </h2>
+<h2>Additional requests for customization are possible and accepted on a case by case basis @ $100/hr</h2>
+
 <h3 id="item-description__advantages">ADVANTAGES</h3>
 
 - A perfect boiler plate for Fullstack web app. 
@@ -14,13 +18,15 @@ Database CRUD (Create, Update, Delete, Read, Search, Sort, Pagination, Export) o
 - Save more than 100 hours of development time.
 - A single line of code auto generates all the required HTML + API endpoints to perform user interactive database operations
 
-```yo vuefull book```
+```
+yo vuefull book
+```
 
 Single line of code to generate production version which can be directly copied to the live or test server with minification
 
-`yarn live`
-OR
-`yarn test`
+```
+yarn prod
+```
 
 
 <h3 id="item-description__features">FEATURES</h3>
@@ -30,7 +36,7 @@ OR
 - All operations(Create, Update, Delete, Read, Search, Sort) are through API hence consumes less client memory
 - Integrated authentication module `Login, Signup, Change Password, Forgot Password, Reset Password, Edit Profile`
 - User Roles module with level of separation
-- Highly scalable, can handle more than 50000 database operations at any instance
+- Highly scalable, can handle more than 50000 database operations per second
 - Best user experience with Single Page Application
 - Modular coding structure
 - Perfect boiler plate for MEVN Stack with all required elements
@@ -64,6 +70,5 @@ OR
 
 *VueJS Fullstack Fullstack Automation* is successor to the following
 --------
-mCRUD – “mCRUD” (AngularJS 1.6 + NodeJS + MongoDB) 
-
-<h2 id="item-description__additional-requests-for-customization-are-possible-and-accepted-on-a-case-by">Additional requests for customization are possible and accepted on a case by case basis @ $65/hr</h2>
+mCRUD – “mCRUD” (AngularJS 1.6 + NodeJS + SQLServer) - 157 enrolled
+MEANCRUD – “MEANCRUD” (AngularJS 1.6 + NodeJS + MongoDB) - 115 enrolled

@@ -4,7 +4,7 @@
 - All operations(Create, Update, Delete, Read, Search, Sort) are through API hence consumes less client memory
 - Integrated authentication module `Login, Signup, Change Password, Forgot Password, Reset Password, Edit Profile`
 - User Roles module with level of separation
-- Highly scalable, can handle more than 50000 database operations at any instance
+- Highly scalable, can handle more than 50000 database operations per second
 - Best user experience with Single Page Application
 - Modular coding structure
 - Perfect boiler plate for MEVN Stack with all required elements
