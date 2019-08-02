@@ -28,5 +28,5 @@ It contains key value pair
         - array
         - url 
         - detail
-        - emailmask `Masks the field and displays only last 4 characters`
-        - phonemask `Masks the field and displays only last 4 characters`
+        - emailmask `Masks the field and displays only last 6 characters`
+        - phonemask `Masks the field and displays only last 6 characters`

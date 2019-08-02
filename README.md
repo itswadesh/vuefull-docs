@@ -4,8 +4,8 @@ heroImage: https://s3.envato.com/files/236941986/banner.png
 actionText: Get Started →
 actionLink: /installation-instructions.html
 features:
-- title: Automated CRUD
-  details: Generate API based Create,Update,Delete,List,Search,Sort + Necessary client side routes with a single command.
+- title: Vue Fullstack Automation
+  details: Generate API based Create,Update,Delete,List,Search,Sort,Export + Necessary client side routes with a single command.
 - title: Modular Code
   details: This component based architecture results clean and modular code which has the power to acomodate any  customizations.
 - title: Performant
@@ -13,9 +13,9 @@ features:
 footer: Codecanyon Licensed | Copyright © 2019-present Swadesh Behera
 ---
 
-## About CRUD Automation
+## About Vuefull Automation
 
-Vue Fullstack Generator is a Javascript CRUD boiler plate, perfect for rapid development. It is built over the cutting edge technology and purely modular code.
+Vue Fullstack Generator is a Javascript Fullstack boiler plate, perfect for rapid development. It is built over the cutting edge technology and purely modular code.
 
 This is based on ReST API and disconnected architecture. Hence you are free to use any front-end or backend. 
 

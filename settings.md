@@ -92,7 +92,7 @@ currency: {  symbol: '₹', code: 'INR'},
 
 ``` js
 export const seedDatabase = false; // Seeds database with some demo data when the database is empty
-export const staticPath = './../crud-images';
+export const staticPath = './../vuefull-images';
 export const uploadDir = staticPath + '/images/';
 export const shopName = 'Codenx.com';
 export const shopEmail = 'info@codenx.com';
@@ -107,8 +107,8 @@ export const pageSize: number = 40
 SERVERPORT=9000
 DOMAIN=http://localhost:9000
 
-MONGODB_URI=mongodb://username:password@localhost:27017/crud?authSource=admin
-SESSION_SECRET=crud-secret
+MONGODB_URI=mongodb://username:password@localhost:27017/vuefull?authSource=admin
+SESSION_SECRET=vuefull-secret
 
 SENDGRID_API_KEY=YOUR_SENDGRID_API_KEY
 

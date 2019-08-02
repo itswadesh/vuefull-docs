@@ -1,9 +1,13 @@
-- Generate Create, Update, Delete, Read, Search, Sort with a `1 command`.
-- All operations(Create, Update, Delete, Read, Search, Sort, Pagination) are through API hence consumes less client memory
+
+- Auto generate database admin pages with single line of code (Material Designed)
+- Generate Create, Update, Delete, Read, Search, Sort, Pagination, Export with `1 command`.
+- All operations(Create, Update, Delete, Read, Search, Sort) are through API hence consumes less client memory
 - Integrated authentication module `Login, Signup, Change Password, Forgot Password, Reset Password, Edit Profile`
 - User Roles module with level of separation
+- Highly scalable, can handle more than 50000 database operations at any instance
 - Best user experience with Single Page Application
 - Modular coding structure
+- Perfect boiler plate for MEVN Stack with all required elements
 - Auto deploy to production server
 - Better and cleaner JavaScript code
 - Simplified installation and configuration
@@ -19,3 +23,15 @@
 - Auto generate minified files for deployment to production server
 - Modular Emails with integrated templating feature
 - Multilingual support
+- Headless architectue
+- Single page progressive ecommerce app using VueJs
+- All assets(js,css,images) are precached for a faster user experience
+- Modular coding structure
+- Full source code shared (Both Client and Server)
+- Easy deployment to production server
+- Improved markup and semantic.
+- Better and cleaner JavaScript code
+- Simplified installation and configuration
+- Role based admin panel 
+- Transactional emails
+- Flat learning curve

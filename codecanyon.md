@@ -4,19 +4,19 @@ Vue Fullstack Automation - Database CRUD Generator using VueJS, NodeJS, MongoDB
 - Documentation: <a href="https://vuefull.codenx.com/" rel="nofollow">http://docs.codenx.com/</a>
 - Email: support@codenx.com
 
-Database CRUD (Create, Update, Delete, Read, Search, Sort, Pagination) operation using VueJS + NodeJS + MongoDB (Material Designed)
+Database CRUD (Create, Update, Delete, Read, Search, Sort, Pagination, Export) operation using VueJS + NodeJS + MongoDB (Material Designed)
 ------------
 
 <h3 id="item-description__advantages">ADVANTAGES</h3>
 
 - A perfect boiler plate for Fullstack web app. 
 - Carefully designed to fit in any project requirements with little customizations. 
-- Save more than 100 hours of development and deploy time.
+- Save more than 100 hours of development time.
 - A single line of code auto generates all the required HTML + API endpoints to perform user interactive database operations
 
 ```yo vuefull book```
 
-Single line of code to deploy the app to production server (live or test) with minification
+Single line of code to generate production version which can be directly copied to the live or test server with minification
 
 `yarn live`
 OR
@@ -26,7 +26,7 @@ OR
 <h3 id="item-description__features">FEATURES</h3>
 
 - Auto generate database admin pages with single line of code (Material Designed)
-- Generate Create, Update, Delete, Read, Search, Sort, Pagination with `1 command`.
+- Generate Create, Update, Delete, Read, Search, Sort, Pagination, Export with `1 command`.
 - All operations(Create, Update, Delete, Read, Search, Sort) are through API hence consumes less client memory
 - Integrated authentication module `Login, Signup, Change Password, Forgot Password, Reset Password, Edit Profile`
 - User Roles module with level of separation

@@ -41,7 +41,7 @@ Run the follwoing commands from an elevated termnial/command prompt. In Windows 
   ```  
 
 ### Run the following 2 commands
-  This will install the required node dependencies and start the Server at [http://localhost:9000](http://localhost:9000) (API), [http://localhost:3000](http://localhost:3000) (CRUD Admin Panel) 
+  This will install the required node dependencies and start the Server at [http://localhost:9000](http://localhost:9000) (API), [http://localhost:3000](http://localhost:3000) (Vuefull Admin Panel) 
   ``` bash
 yarn
 yarn dev
