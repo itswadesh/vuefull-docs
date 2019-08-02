@@ -168,24 +168,3 @@ SENDGRID_API_KEY=`YOUR_SENDGRID_API_KEY` // Sendgrid API KEY for emails
 ``` 
 Reference: <a href="https://sendgrid.com/docs/ui/account-and-settings/api-keys/">https://sendgrid.com/docs/ui/account-and-settings/api-keys/</a>
 ## API Level Settings (Server Module)
-
-::: warning path: <em>server/api/book/config.ts</em>
- It defines the data types of each field. 
-:::
-
-``` js
-export const modelName = 'Book'
-export const fields = {
-    name: 'string',
-    author: 'string',
-    active: 'boolean',
-    price: 'number',
-    category: 'string',
-    image: 'string',
-    isbn: 'string',
-    weight: 'string',
-    releaseDate: 'date'
-}
-```
-
-Reference: <a href="https://docs.mongodb.com/manual/reference/bson-types/">https://docs.mongodb.com/manual/reference/bson-types/</a>
