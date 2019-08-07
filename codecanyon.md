@@ -1,8 +1,10 @@
 Vue Fullstack Automation - Database CRUD Generator using VueJS, NodeJS, MongoDB
 
+<h2>Create, Customize and deploy enterprise-level fullstack web application from scratch under 5 minutes</h2>
+
 <ul>
 <li> Demo: <a href="https://vuefull.codenx.com/" rel="nofollow">https://vuefull.codenx.com/</a> </li>
-<li>- Documentation: <a href="https://vuefull.codenx.com/" rel="nofollow">http://docs.codenx.com/</a> </li>
+<li> Documentation: <a href="https://docs.codenx.com/" rel="nofollow">https://docs.codenx.com/</a> </li>
 <li> Email: support@codenx.com </li>
 </ul>
 
@@ -10,7 +12,7 @@ Database CRUD (Create, Update, Delete, Read, Search, Sort, Pagination, Export) o
 ------------
 <ul>
 <li>Full refund::: if it does not work as per demo</li>
-<li>Free::: Development + Production setup </li>
+<li>Free::: Production setup (on ubuntu box) </li>
 <li>Additional requests for customization are possible and accepted on a case by case basis @ $100/hr</li>
 </ul>
 
@@ -25,7 +27,7 @@ Database CRUD (Create, Update, Delete, Read, Search, Sort, Pagination, Export) o
 yo vuefull book
 </pre>
 
-Single line of code to generate production version which can be directly copied to the live or test server with minification
+Single line of code to generate production version which can be directly copied to the live/test server with minification
 <br/>
 <pre>
 yarn prod
